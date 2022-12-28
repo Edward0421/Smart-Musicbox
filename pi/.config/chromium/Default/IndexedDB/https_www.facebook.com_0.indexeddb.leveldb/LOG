@@ -1,0 +1,7 @@
+2022/12/04-18:23:28.451 d41 Reusing MANIFEST /home/pi/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/04-18:23:28.452 d41 Recovering log #3
+2022/12/04-18:23:28.452 d41 Reusing old log /home/pi/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000003.log 
+2022/12/04-18:23:44.642 d81 Level-0 table #5: started
+2022/12/04-18:23:44.659 d81 Level-0 table #5: 14846 bytes OK
+2022/12/04-18:23:44.681 d81 Delete type=0 #3
+2022/12/04-18:23:44.681 d81 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

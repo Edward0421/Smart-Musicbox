@@ -1,0 +1,6 @@
+2022/12/16-12:26:42.119 929 Reusing MANIFEST /home/pi/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/16-12:26:42.124 929 Recovering log #3
+2022/12/16-12:26:42.171 929 Reusing old log /home/pi/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/12/16-12:30:24.692 961 Level-0 table #5: started
+2022/12/16-12:30:24.923 961 Level-0 table #5: 1172214 bytes OK
+2022/12/16-12:30:24.937 961 Delete type=0 #3

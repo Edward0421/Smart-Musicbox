@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "simple-alarm-scnd",
+  "private_key_id": "bb9a1647108b3deeefd65ed18099e8968246d686",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5EN6YhqleLypn\nOHM2W8nWzB4KUI+h9vJCWFT1dzNw6Pd9NLIEs8K0pRrcKPrQd0Mwwgxc+RzrZvAc\nXVPjsyuldZUm1WdZNYdOaVZhwovJTao/HbksV4218gfAWoKmg4th7y7NK7HYOitX\n4+Rol/e5TeLljFZZ7sDPwZgos/C1HkUwdV0hfWqbVV6eh/JFoqDaIHPDJ+ia0ND4\nHCP47LQpIiJL2iyQqu1USYGLbvj1XElNNVg5mV3wJT5siwJ30PgY1VlnJrdq+wwi\nSAPccn0daVBfQTA6JpEUoAOVmqnDFJLe2wTPhPC+ffx+YMJ1SckIIzgGcLdRRAEk\nWTp6Bv8rAgMBAAECggEAGg/oySIYXU3XHYzdl3Ilt+eBnizqOAJG66ufi1IAyeMv\nt0+Md7e5BnzvOMIB+wml9LU0eINnMd+KlklZCbVZwttkPdZ1JM2yWGCNQbHcGGVP\nlxk10qt3JtWxhxfiqQCCyIVJL1ZP8rDTxHTbiGnzq6zu9H9m9GijI/Q83BPlz3D5\nOYHayzb8hA262nSUyJqIvEdzkztUCTs02HuirZk6d2sURQ63PEYoZf9oAHTZlh/v\nFvZ2Q29jStTmPOqezoAbvN3al/0gM2QNEgVvhGSnEH0FdPdW3wxvWxOdz5C5I+V9\nB2Aspp+0H/xyX/3+uQY7yi4Z4uprgpro5qITOIsSQQKBgQDa4qy0GnIR9ACdcWXl\nDSSnOfgfI8xwmyYjpefkuXs1n+ikEK8cNCqAei4yMqWpSSG8GE7sfLzJG980G525\nkz+rDN2bpcUWYWbMEV22Cg4i3gIVcIpUWKddL5le/B9rmDU5cZefho/1wOWMTzQS\nkc19TfCO5BluJb0hgL9FkYVgpQKBgQDYcioHkJLchswYAiyAihjAQpWCjjo0MT7i\n6zqFQqna+hepbJHCUS7bnQPq+jIjzT/0WOp99Hne4fPCXqk0qzMBPY40iElc01E5\nKqkFuim/qW7CA+I+vtzQt+XG5+1avRHE6fmvzZtnb1dIHnKfIBMz+PGH5Qz+Gh1M\nn6ws1COHjwKBgCEJvc+hfj4/eihJiXu9NB8ZnN32ZVFJ2cPfstTPOk2pyU+aRRQY\nu6GQz5A8HM0kgLcHZEJFwakJT/Nph7EPDLkgxAJOTyVFpmJ+7Iohkmio4d+ikP6S\nMxDZsmin3YY7/yygfKZThT8u0ncPLWjwIPgc34Zx33TEtXttF3HEuUERAoGAbaKG\nP4avnRx6TL7tI77PgrM3YAYC3WUEYZSc89sshkqfqaXgvvi4L219Cozo0NGqT26q\neFpZUNhKzG1+b7s3/qzbVyihYG95eOdu7gO6GecMvyGQfA/Zca90qCfaRlf2pDOP\n0cjnqqDvKQyjKo7oqy6xyQ/wYNWBecp3P83EoWkCgYEAjgVJEBcUMEMASUP5jm/2\nX1Vi56iPlbJGYcUzg8iWX/2YctYL2euuXBAWDx8be/89tD0fuFiwLf5leFU8Qm1s\nK//ki8WOwVfhPTYZVByfaa1f3ZX5Pxu651TCFXPjai2tYP3wHF4621TqaXclk4+U\nN/8UP4fYv4SMW7KTDzyEluM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "alarm-clock-dialogflow@simple-alarm-scnd.iam.gserviceaccount.com",
+  "client_id": "110676809377674220248",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/alarm-clock-dialogflow%40simple-alarm-scnd.iam.gserviceaccount.com"
+}
+

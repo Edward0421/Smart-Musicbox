@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "natural-aspect-347406",
+  "private_key_id": "7c88bc3ed304765aeb61487f1f317391e608606a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBDctuwNVrvbER\nMrJZJT0ck4NZO/juI+GCrcwNVsZqf6oSvHSTN66WcBWERCb1ozFP3H+JyVHZWY1H\nz3IeCMjdqEhlrZt2HIq9KU5k25r7gcYbRAg6p1PjvuE5gSpBkpw5cp4tAutxJNXA\nXRHgIsdkQs35OsR40CG57LQe2HBZn/icny636BLhT8QDwK5ei552ZmMz9x01+shK\n29ffct0PQggba0PPvYzyt9WJNHjQ/frfZDKZ/GZllKRexd+ktO3b+c5BgUrqh98T\nW/Cb6Ve1Tuk9hVOJfw2WKG4rxWjzO5CyTrGkBEMDYF3QaHAFgeyxhjx7KG6uUBHC\nJQdo28ItAgMBAAECggEACX57LbQwCr9mcNkUakvpiHk8sWvAnz2Gfp27dkB5O42R\nuKAp/39yh5V1iW6sl9Hxv+KxJv6OlujPiOOL0ixObJA1F0MFbTaUIB9i6pTeN1Y3\nfunGmdPWzVF61BAlGtpx8mVPoBkPqR3NoUsycNplAepDJOmd9e8OaY1ZglbUl6Ov\nVKGx52hk+mtqnbmw3LlRZd6FqDKiiswBsLuhMiJxuNLVpT/sP85Xp7U/MfBc1v8m\n4RzlR+ulsdlWTNSt6oZL+3a/RJNXTIPW5QtpCAjMwORt96De/UOF+vEOzNnPLG3V\nAG4L5C8QOA0eTic+fbCSNFnuGVjq40ESjV4dQ+mdJQKBgQD8VMUoE3qhOXrgTqst\n599Bg0pRZzk01Jxk1MBc3dWJ0LTnuTzAkrF9ZX9fq8GG0toOQg9IS173Zh7xk0zV\nc8nYsWSc/3ckvZqIuA+jVmFEjkHcomfj/fPpnk4w/R/GrzF/1J7Oau8q9/9OpXXU\ngM45F0lbiTZa/e3x2TNQdHLvCwKBgQDD3GHOovleDSbbg9BFu4Yl4/HuKInm/umW\nyxIxZO31BSjFMTVNzeD5OmI/cPvmDMGFfpxKblAZptB5Wq9jsQVBB7wiTLbWhQDD\n0bPfEXCAUAWYFC2CwZgRbJw5sdDDDRLtf8xMNb/+TOGgbAkxkLDZvBBc1RyNhQSm\n54p8adC2pwKBgQDGiDwHaCwYJg2T5tGwcLur5AzZN4o/EvlqLCqd5rxYjqmHmKtA\nKSsVKoKpV44Q8l020qsLiqHRrbuy/t55I30wzYIINMgdVED+STOkpBYrxnHzkqSD\nMhBzQ2bqDH6v6K/dkADTEDfVawKpcm3fIOkg6j2Bk9f8h8ZrfyVsq/KyOQKBgQCZ\nvXzcyZq6k9JDjxVGF2u2hFXcXt/YfZH39tECCrqqkPEu0HCJ8Sg+GfES4Wopayvg\n0MB3wF2JtSKBj4iK1WJNaHfp6JPAkchG7W2mlLbdUXMCrBwJPlNSohGDTCuVX8bS\nvHUuAScCw3B8DzGsQWpAj1m8tN/jyl0bcjaHcDwPkwKBgGopWC7Bn6DhHFj+uh11\nb1kmLAcNjROQ1GzHPynXQZk87GngUCFUOlcHZKxfM6QCY1xvmnNWl00532EqEHZ2\no0nbImmUKSIlQnC9Qc1TDVkXij0jSjDFEAAUKi4Xm0wEbVY9jhI2p1sEEcU8q7fO\nD7u+W7+fVQOc2JG/GzY+xoWX\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-aiy-voice-kit-reborn@natural-aspect-347406.iam.gserviceaccount.com",
+  "client_id": "110327209900219021259",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-aiy-voice-kit-reborn%40natural-aspect-347406.iam.gserviceaccount.com"
+}
+

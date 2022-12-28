@@ -1,0 +1,678 @@
+1.2
+lxde-applications.menu
+19
+D/home/pi/.local/share/desktop-directories
+D/usr/share/fkms/desktop-directories
+D/usr/local/share/desktop-directories
+D/usr/share/raspi-ui-overrides/desktop-directories
+D/usr/share/desktop-directories
+D/usr/share/gdm/desktop-directories
+D/var/lib/menu-xdg/desktop-directories
+D/home/pi/.local/share/applications
+D/usr/share/fkms/applications
+D/usr/local/share/applications
+D/usr/share/raspi-ui-overrides/applications
+D/usr/share/applications
+D/usr/share/gdm/applications
+D/var/lib/menu-xdg/applications
+D/etc/xdg/menus/applications-merged
+D/home/pi/.config/menus/applications-merged
+F/home/pi/.config/menus/lxde-applications.menu
+F/etc/xdg/menus/lxde-applications.menu
+F/etc/xdg/menus/debian-menu.menu
+MATE;
++Applications
+應用程式
+應用程式
+applications-other
+lxde-menu-applications.directory
+4
+0
++Other
+其他
+不符合其他分類的軟體
+applications-other
+lxde-other.directory
+4
+0
+-rp-bookshelf.desktop
+Bookshelf
+Download and read Raspberry Pi Press publications
+bookshelf
+
+11
+Bookshelf
+rp-bookshelf
+2
+-11
+
+
+Help
+
+-debian-reference-common.desktop
+Debian 參考手冊
+Debian Reference Guide
+debian-reference.png
+
+10
+
+debian-reference
+0
+0
+debian-reference
+
+Help
+
+-raspi_getstart.desktop
+Get Started
+
+rpi
+
+10
+
+x-www-browser https://rpf.io/raspbian-getstarted
+2
+0
+/usr/bin/x-www-browser
+
+Help
+
+-help.desktop
+Help
+Link to help pages
+rpi
+
+10
+
+x-www-browser https://rpf.io/raspbian-help
+0
+0
+/usr/bin/x-www-browser
+
+Help
+
+-raspi_resources.desktop
+Projects
+
+rpi
+
+10
+
+x-www-browser https://rpf.io/raspbian-projects
+2
+0
+/usr/bin/x-www-browser
+
+Help
+
+
++Multimedia
+影音
+多媒體選單
+applications-multimedia
+lxde-audio-video.directory
+4
+0
+-pavucontrol.desktop
+PulseAudio Volume Control
+Adjust the volume level
+multimedia-volume-control
+
+11
+Volume Control
+pavucontrol
+2
+0
+
+
+AudioVideo;Audio;Mixer;GTK
+
+-vlc.desktop
+VLC Media Player
+Multimedia player for audio and video files and streams
+vlc
+
+10
+Media player
+/usr/bin/vlc --started-from-file %U
+0
+0
+/usr/bin/vlc
+
+AudioVideo;Player;Recorder
+Player,Capture,DVD,Audio,Video,Server,Broadcast
+
++Internet
+網際網路
+如瀏覽網頁及收發電郵等網路軟體
+applications-internet
+lxde-network.directory
+4
+0
+-chromium-browser.desktop
+Chromium 網頁瀏覽器
+連線到網際網路
+chromium-browser
+
+11
+網頁瀏覽器
+chromium-browser %U
+2
+0
+
+
+Network;WebBrowser
+
+-claws-mail.desktop
+Claws Mail
+Lightweight and Fast GTK+ based Mail Client
+mail
+
+10
+E-mail client
+claws-mail %u
+2
+0
+claws-mail
+
+Network;Email
+lightweight,fast,gui,extensible,plugin,pop,pop3,imap,imap4,nntp,news
+
++Graphics
+美工繪圖
+繪圖工具
+applications-graphics
+lxde-graphics.directory
+4
+0
+-gpicview.desktop
+圖片檢視器
+輕鬆檢視數位相片和圖片
+gpicview
+
+10
+圖片檢視器
+gpicview %f
+2
+0
+gpicview
+
+Graphics;Core;GTK;Viewer;RasterGraphics;2DGraphics;Photography
+
+
++Development
+軟體開發
+軟體開發工具
+applications-development
+lxde-development.directory
+4
+0
+-bluej.desktop
+BlueJ Java IDE
+A simple powerful Java IDE
+bluej
+
+10
+
+bluej
+0
+0
+bluej
+
+Application;Development
+
+-geany.desktop
+Geany
+一個快速且輕巧的 GTK2 整合開發環境
+geany
+
+10
+整合開發環境
+geany %F
+2
+0
+geany
+
+GTK;Development;IDE
+
+-greenfoot.desktop
+Greenfoot Java IDE
+A simple Java IDE and animation framework
+greenfoot
+
+10
+
+greenfoot
+0
+0
+greenfoot
+
+Application;Development
+
+-idle3.desktop
+Python 3 (IDLE)
+Integrated development environment for Python 3
+python
+
+10
+
+/usr/bin/idle3
+2
+0
+/usr/bin/idle3
+
+Application;Development
+
+-idle-python3.7.desktop
+Python 3 (IDLE)
+Integrated development environment for Python 3
+python
+
+10
+
+/usr/bin/idle-python3.7
+2
+0
+/usr/bin/idle-python3.7
+
+Application;Development
+
+-scratch.desktop
+Scratch
+Programming system and content development tool
+scratch
+
+10
+
+scratch
+0
+0
+scratch
+
+Application;Development
+
+-Thonny.desktop
+Thonny Python IDE
+Python IDE for beginners
+thonny
+
+11
+Python IDE
+/usr/bin/thonny %F
+2
+0
+
+
+Application;Development
+
+
++Office
+辦公
+辦公室軟體
+applications-office
+lxde-office.directory
+4
+0
+-libreoffice-draw.desktop
+LibreOffice Draw
+使用 Draw 可建立與編輯繪圖、流程圖以及標誌。
+libreoffice-draw
+
+10
+繪圖程式
+libreoffice --draw %U
+2
+0
+libreoffice
+
+Office;FlowChart;2DGraphics;VectorGraphics
+Vector,Schema,Diagram,Layout,OpenDocument Graphics,Microsoft Publisher,Corel Draw,cdr,odg,svg
+-libreoffice-math.desktop
+LibreOffice Math
+使用 Math 可建立與編輯科學公式與方程式。
+libreoffice-math
+
+10
+公式編輯器
+libreoffice --math %U
+2
+0
+libreoffice
+
+Office;Spreadsheet;Science;Math
+Equation,OpenDocument Formula,Formula,odf,MathML
+
++Games
+遊戲
+遊戲及娛樂
+applications-games
+lxde-game.directory
+4
+0
+-minecraft-pi.desktop
+Minecraft Pi
+Fun with Blocks
+/usr/share/pixmaps/minecraft-pi.png
+
+10
+
+minecraft-pi
+2
+0
+minecraft-pi
+
+Application;Game
+
+
++Accessories
+附屬應用程式
+桌面附屬應用程式
+applications-accessories
+lxde-utility.directory
+4
+0
+-xarchiver.desktop
+Archiver
+Create and access archive files
+xarchiver.png
+
+10
+Archive manager
+xarchiver
+2
+0
+xarchiver
+
+GTK;Archiving;Utility
+
+-galculator.desktop
+Calculator
+Perform simple and scientific calculations
+galculator
+
+10
+
+galculator
+2
+0
+galculator
+
+Utility
+
+-lxterminal.desktop
+LX 終端機
+使用命令列
+lxterminal
+
+10
+終端機
+lxterminal
+2
+0
+lxterminal
+
+GTK;Utility;TerminalEmulator
+
+-qpdfview.desktop
+PDF Viewer
+Viewer for PDF files
+xpdf
+
+11
+PDF Viewer
+qpdfview --unique %F
+0
+0
+qpdfview
+
+Viewer;Utility
+viewer,document,presentation,pdf,ps,djvu
+-xpdf.desktop
+PDF Viewer
+Viewer for PDF files
+xpdf
+
+10
+PDF viewer
+xpdf
+0
+0
+xpdf
+
+Viewer;Utility
+
+-agnostics.desktop
+Raspberry Pi Diagnostics
+Test the Raspberry Pi hardware
+rpi
+
+11
+Raspberry Pi Diagnostics
+agnostics
+2
+-11
+
+
+Utility
+
+-piclone.desktop
+SD Card Copier
+Make a copy of the Raspbian SD card
+media-removable
+
+11
+SD Card Copier
+env SUDO_ASKPASS=/usr/lib/piclone/pwdpic.sh sudo -AE dbus-launch piclone
+2
+-11
+
+
+Utility
+
+-mousepad.desktop
+Text Editor
+簡易文字編輯器
+accessories-text-editor
+
+10
+
+mousepad %F
+2
+0
+mousepad
+
+GTK;Utility;TextEditor
+
+-leafpad.desktop
+Text Editor
+簡易文字編輯器
+accessories-text-editor
+
+10
+
+leafpad %f
+0
+0
+leafpad
+
+GTK;Utility;TextEditor
+
+-vim.desktop
+Vim
+編輯文字檔
+gvim
+
+11
+Text Editor
+vim %F
+1
+0
+vim
+
+Utility;TextEditor
+Text,editor
+-lxtask.desktop
+工作管理員
+管理執行中的程式
+utilities-system-monitor
+
+10
+工作管理員
+lxtask
+2
+0
+lxtask
+
+GTK;Utility;Monitor
+
+-pcmanfm.desktop
+檔案管理程式
+瀏覽檔案系統及管理檔案
+system-file-manager
+
+10
+檔案管理程式
+pcmanfm %U
+2
+0
+pcmanfm
+
+FileManager;Utility;Core;GTK
+
+
+-
++DesktopSettings
+偏好設定
+個人偏好設定
+preferences-desktop
+lxde-settings.directory
+4
+0
+-pi-packages.desktop
+Add / Remove Software
+加入或移除系統上安裝的軟體
+system-software-install
+
+11
+
+pi-packages
+2
+-5
+
+
+GNOME;GTK;System;Settings;PackageManager
+Updates,Upgrade,Sources,Repositories,Preferences,Install,Store,更新,升級,來源,套件庫,軟體庫,偏好設定,安裝,商店
+-alacarte.desktop
+Main Menu Editor
+從主選單加入或移除應用程式
+alacarte
+
+11
+
+alacarte
+2
+-5
+
+
+GNOME;Settings;DesktopSettings
+
+-rc_gui.desktop
+Raspberry Pi 設定
+設定 Raspberry Pi 系統
+rpi
+
+11
+Raspberry Pi 設定
+env SUDO_ASKPASS=/usr/lib/rc-gui/pwdrcg.sh sudo -AE rc_gui
+2
+-11
+
+
+Settings;DesktopSettings;GTK;X-LXDE-Settings
+
+-rp-prefapps.desktop
+Recommended Software
+Install additional programs recommended for use on the Pi
+rpi
+
+11
+Recommended Software
+env SUDO_ASKPASS=/usr/lib/rp-prefapps/pwdrpp.sh sudo -AE rp-prefapps
+2
+-11
+
+
+Settings;DesktopSettings;GTK;X-LXDE-Settings
+
+-scim-setup.desktop
+SCIM 輸入法框架
+SCIM 組態設定
+scim-setup
+
+11
+
+scim-setup
+2
+-5
+
+
+Settings
+
+-arandr.desktop
+Screen Configuration
+
+display
+
+8
+Screen Settings
+env SUDO_ASKPASS=/usr/lib/arandr/pwdarandr.sh sudo -AE arandr
+2
+0
+
+
+Settings;HardwareSettings
+
+-pipanel.desktop
+外觀設定
+設定桌面與視窗的外觀
+preferences-desktop-theme
+
+11
+外觀設定
+env SUDO_ASKPASS=/usr/lib/pipanel/pwdpip.sh pipanel
+2
+-11
+
+
+Settings;DesktopSettings;GTK;X-LXDE-Settings
+
+-im-config.desktop
+輸入法
+設定鍵盤輸入模式
+input-keyboard
+
+11
+
+im-config
+0
+0
+
+
+Settings
+keyboard,input
+-lxinput.desktop
+鍵盤及滑鼠
+設定鍵盤、滑鼠、及其他輸入裝置
+preferences-desktop-peripherals
+
+11
+
+lxinput
+2
+-47
+lxinput
+
+GTK;Settings;HardwareSettings;X-LXDE-Settings
+
+
+

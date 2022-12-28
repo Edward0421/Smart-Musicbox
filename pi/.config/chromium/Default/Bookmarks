@@ -1,0 +1,47 @@
+{
+   "checksum": "960aa4ac32a7c76d54ebb2428fdec21d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13135176486631184",
+            "guid": "ddfb0b6b-a2c9-445c-9ef8-2a287e413a54",
+            "id": "2",
+            "name": "Google API Console",
+            "type": "url",
+            "url": "https://console.developers.google.com/"
+         }, {
+            "date_added": "13135176486631184",
+            "guid": "9382c79e-9bdb-4d0b-9098-828efbf1480b",
+            "id": "3",
+            "name": "AIY Projects/Voice",
+            "type": "url",
+            "url": "https://aiyprojects.withgoogle.com/voice/"
+         } ],
+         "date_added": "13135176330453515",
+         "date_modified": "13135176486631184",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "書籤列",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13135176330453536",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "4",
+         "name": "其他書籤",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13135176330453541",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "5",
+         "name": "行動版書籤",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

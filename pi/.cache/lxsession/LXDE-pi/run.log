@@ -1,0 +1,261 @@
+** Message: 14:33:09.253: environement.vala:58: Exporting primary_variable
+** Message: 14:33:09.253: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 14:33:09.253: environement.vala:150: confir_dirs is null, export : /etc/xdg
+** Message: 14:33:09.253: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 14:33:09.253: environement.vala:218: custom_data :
+** Message: 14:33:09.253: environement.vala:219: data_dirs :/usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 14:33:09.253: environement.vala:220: data_dirs not null, export : /usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 14:33:09.253: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 14:33:09.253: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 14:33:09.254: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 14:33:09.254: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 14:33:09.254: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 14:33:09.254: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:846): WARNING **: 14:33:09.256: utils.vala:70: 沒有此一檔案或目錄
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「GTK」中沒有設定鍵「iGtk/ColorScheme」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「windows_manager/command」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「panel/command」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「dock/command」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「file_manager/command」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「desktop_manager/command」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「launcher_manager/autostart」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「composite_manager/command」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「im1/command」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「im2/command」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「widget1/command」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「notification/command」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「keybindings/command」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「im_manager/command」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「screensaver/command」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「power_manager/command」
+** Message: 14:33:09.256: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「audio_manager/command」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「workspace_manager/command」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「screenshot_manager/command」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「message_manager/command」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「upgrade_manager/command」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「updates_manager/command」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「updates_manager/timeout」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「crash_manager/command」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「crash_manager/dev_mode」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「crash_manager/timeout」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「upstart_user_session」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「proxy_manager/http」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「a11y/command」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「xrandr/command」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「network_gui/command」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「webbrowser/command」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「email/command」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「pdf_reader/command」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「video_player/command」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「audio_player/command」
+** Message: 14:33:09.257: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「images_display/command」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「text_editor/command」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「archive/command」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「charmap/command」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「calculator/command」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「spreadsheet/command」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「bittorent/command」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「document/command」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「webcam/command」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「burn/command」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「notes/command」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「disk_utility/command」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Session」中沒有設定鍵「tasks/command」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案沒有群組「Keymap」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「State」中沒有設定鍵「laptop_mode」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Dbus」中沒有設定鍵「gnome」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Environment」中沒有設定鍵「type」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Environment」中沒有設定鍵「ubuntu_menuproxy」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Environment」中沒有設定鍵「toolkit_integration」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Environment」中沒有設定鍵「gtk/overlay_scrollbar_disable」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Environment」中沒有設定鍵「qt/force_theme」
+** Message: 14:33:09.258: settings.vala:540: 設定鍵檔案的群組「Environment」中沒有設定鍵「qt/platform」
+** Message: 14:33:09.259: settings.vala:462: Monitoring: /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 14:33:09.259: settings.vala:470: Desktop file is not in config home, monitoring creation of it
+** Message: 14:33:09.259: settings.vala:485: Monitoring home path: /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: 14:33:09.259: environement.vala:79: Exporting variable
+** Message: 14:33:09.259: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 14:33:09.259: environement.vala:177: custom_config :
+** Message: 14:33:09.259: environement.vala:178: config_dirs :/etc/xdg
+** Message: 14:33:09.259: environement.vala:179: confir_dirs not null, export : /etc/xdg
+** Message: 14:33:09.259: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 14:33:09.259: environement.vala:218: custom_data :
+** Message: 14:33:09.259: environement.vala:219: data_dirs :/usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 14:33:09.259: environement.vala:220: data_dirs not null, export : /usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 14:33:09.259: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 14:33:09.259: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 14:33:09.260: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:846): WARNING **: 14:33:09.260: utils.vala:70: 沒有此一檔案或目錄
+** Message: 14:33:09.260: environement.vala:254: No entry in [Environment_variable]. 設定鍵檔案沒有群組「Environment_variable」
+** Message: 14:33:09.264: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 14:33:09.264: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 14:33:09.264: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 14:33:09.264: options.vala:164: Activate xsettings_manager build-in
+** Message: 14:33:09.264: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 14:33:09.264: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:846): WARNING **: 14:33:09.264: utils.vala:70: 沒有此一檔案或目錄
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+** Message: 14:33:09.282: app.vala:721: polkit separate
+** Message: 14:33:09.282: app.vala:721: polkit separate
+** Message: 14:33:09.293: app.vala:76: Launching lxpolkit 
+** Message: 14:33:09.294: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 14:33:09.294: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 14:33:09.294: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 14:33:09.294: autostart.vala:42: Autostart path : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 14:33:09.313: app.vala:76: Launching lxpanel 
+** Message: 14:33:09.326: app.vala:76: Launching pcmanfm 
+
+** (lxsession:846): WARNING **: 14:33:09.339: app.vala:86: 無法執行副程序「xscreensaver」(沒有此一檔案或目錄)
+
+** (lxsession:846): WARNING **: 14:33:09.339: app.vala:87: Error when launching xscreensaver
+** Message: 14:33:09.347: options.vala:107: Create build-in Clipboard
+** Message: 14:33:09.348: main.vala:441: Check keymap_mode (null)
+** Message: 14:33:09.355: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-7ofgDdJ0uXzZ/agent.1145; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=1147; export SSH_AGENT_PID;
+echo Agent pid 1147;
+** Message: 14:33:09.552: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+** Message: 14:33:09.593: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: 14:33:09.634: x-terminal-emulator has very limited support, consider choose another terminal
+Openbox-Message: 無法找到有效的選單檔案「/usr/share/lxde/openbox/menu.xml」
+** Message: 14:33:11.230: Connecting ...
+** Message: 14:33:11.230: Status changed to down
+Unit pt-device-manager.service could not be found.
+
+** (lxpanel:1141): WARNING **: 14:33:11.387: Battery 0 not found
+
+(lxpanel:1141): Gtk-CRITICAL **: 14:33:11.869: IA__gtk_image_set_from_pixbuf: assertion 'GTK_IS_IMAGE (image)' failed
+** Message: 14:33:12.232: Status changed to opened
+** Message: 14:33:12.232: Connected to dhcpcd-8.1.2
+** Message: 14:33:12.233: Status changed to connected
+** Message: 14:33:12.233: eth0: Link is down
+** Message: 14:33:12.233: wlan0: Associated with \344\275\240\345\245\266\345\245\266
+** Message: 14:33:12.233: wlan0: Configured 192.168.83.217/24
+** Message: 14:33:12.236: wlan0: WPA status connected
+** Message: 14:33:12.236: wlan0: Received scan results
+** Message: 14:34:38.136: wlan0: Received scan results
+** Message: 14:35:38.136: wlan0: Received scan results
+** Message: 14:36:38.125: wlan0: Received scan results
+** Message: 14:37:38.134: wlan0: Received scan results
+** Message: 14:38:38.126: wlan0: Received scan results
+** Message: 14:39:38.127: wlan0: Received scan results
+** Message: 14:40:38.122: wlan0: Received scan results
+** Message: 14:41:38.131: wlan0: Received scan results
+** Message: 14:42:38.132: wlan0: Received scan results
+** Message: 14:43:38.141: wlan0: Received scan results
+** Message: 14:44:38.134: wlan0: Received scan results
+** Message: 14:45:38.139: wlan0: Received scan results
+** Message: 14:46:38.138: wlan0: Received scan results
+** Message: 14:47:38.134: wlan0: Received scan results
+** Message: 14:48:38.138: wlan0: Received scan results
+** Message: 14:49:38.159: wlan0: Received scan results
+** Message: 14:50:38.135: wlan0: Received scan results
+** Message: 14:51:38.156: wlan0: Received scan results
+** Message: 14:52:38.138: wlan0: Received scan results
+** Message: 14:53:38.134: wlan0: Received scan results
+** Message: 14:54:38.159: wlan0: Received scan results
+** Message: 14:55:38.138: wlan0: Received scan results
+** Message: 14:56:38.143: wlan0: Received scan results
+** Message: 14:57:38.139: wlan0: Received scan results
+** Message: 14:58:38.144: wlan0: Received scan results
+** Message: 14:59:38.145: wlan0: Received scan results
+** Message: 15:00:38.145: wlan0: Received scan results
+** Message: 15:01:38.152: wlan0: Received scan results
+** Message: 15:02:38.147: wlan0: Received scan results
+** Message: 15:03:38.157: wlan0: Received scan results
+** Message: 15:04:38.168: wlan0: Received scan results
+** Message: 15:05:38.156: wlan0: Received scan results
+** Message: 15:06:38.176: wlan0: Received scan results
+** Message: 15:07:38.154: wlan0: Received scan results
+** Message: 15:08:38.159: wlan0: Received scan results
+** Message: 15:09:38.149: wlan0: Received scan results
+** Message: 15:10:38.150: wlan0: Received scan results
+** Message: 15:11:38.168: wlan0: Received scan results
+** Message: 15:12:38.160: wlan0: Received scan results
+** Message: 15:13:38.153: wlan0: Received scan results
+** Message: 15:14:38.160: wlan0: Received scan results
+** Message: 15:15:38.154: wlan0: Received scan results
+** Message: 15:16:38.161: wlan0: Received scan results
+** Message: 15:17:38.160: wlan0: Received scan results
+** Message: 15:18:38.168: wlan0: Received scan results
+** Message: 15:19:38.162: wlan0: Received scan results
+** Message: 15:20:38.175: wlan0: Received scan results
+** Message: 15:21:38.159: wlan0: Received scan results
+** Message: 15:22:38.166: wlan0: Received scan results
+** Message: 15:23:38.164: wlan0: Received scan results
+** Message: 15:24:38.170: wlan0: Received scan results
+** Message: 15:25:38.167: wlan0: Received scan results
+** Message: 15:26:38.162: wlan0: Received scan results
+** Message: 15:27:38.179: wlan0: Received scan results
+** Message: 15:28:38.168: wlan0: Received scan results
+** Message: 15:29:38.174: wlan0: Received scan results
+** Message: 15:30:38.170: wlan0: Received scan results
+** Message: 15:31:38.179: wlan0: Received scan results
+** Message: 15:32:38.181: wlan0: Received scan results
+** Message: 15:33:38.184: wlan0: Received scan results
+** Message: 15:34:38.180: wlan0: Received scan results
+** Message: 15:35:38.174: wlan0: Received scan results
+** Message: 15:36:38.179: wlan0: Received scan results
+[00228b58] main libvlc: 以預設介面執行 VLC。使用「cvlc」指令以無介面方式執行 VLC。
+qt5ct: using qt5ct plugin
+qt5ct: D-Bus global menu: no
+qt5ct: D-Bus system tray: no
+[00293d78] main playlist: playlist is empty
+** Message: 15:37:38.174: wlan0: Received scan results
+QObject::~QObject: Timers cannot be stopped from another thread
+** Message: 15:38:38.190: wlan0: Received scan results
+** Message: 15:39:38.198: wlan0: Received scan results
+** Message: 15:40:38.180: wlan0: Received scan results
+** Message: 15:41:38.191: wlan0: Received scan results
+** Message: 15:42:38.188: wlan0: Received scan results
+** Message: 15:43:38.187: wlan0: Received scan results
+** Message: 15:44:38.199: wlan0: Received scan results
+** Message: 15:45:38.185: wlan0: Received scan results
+** Message: 15:46:38.188: wlan0: Received scan results
+** Message: 15:47:38.208: wlan0: Received scan results
+** Message: 15:48:38.233: wlan0: Received scan results
+** Message: 15:49:38.206: wlan0: Received scan results
+** Message: 15:50:38.201: wlan0: Received scan results
+** Message: 15:51:38.222: wlan0: Received scan results
+** Message: 15:52:38.192: wlan0: Received scan results
+** Message: 15:53:38.164: wlan0: Received scan results
+** Message: 15:54:38.155: wlan0: Received scan results
+** Message: 15:55:38.194: wlan0: Received scan results
+** Message: 15:56:38.192: wlan0: Received scan results
+** Message: 15:57:38.212: wlan0: Received scan results
+** Message: 15:58:38.201: wlan0: Received scan results
+** Message: 15:59:38.193: wlan0: Received scan results
+** Message: 16:00:09.819: wlan0: Disassociated from \344\275\240\345\245\266\345\245\266
+** Message: 16:00:09.824: Status changed to disconnected
+** Message: 16:00:10.716: wlan0: Received scan results
+** Message: 16:00:13.328: wlan0: Received scan results
+** Message: 16:00:16.433: wlan0: Received scan results
+** Message: 16:00:23.571: wlan0: Received scan results
+** Message: 16:00:37.685: wlan0: Received scan results
+** Message: 16:00:49.778: wlan0: Received scan results
+** Message: 16:00:55.859: wlan0: Received scan results
+** Message: 16:01:01.941: wlan0: Received scan results
+** Message: 16:01:08.028: wlan0: Received scan results
+** Message: 16:01:14.112: wlan0: Received scan results
+** Message: 16:01:20.199: wlan0: Received scan results
+** Message: 16:01:26.281: wlan0: Received scan results
+** Message: 16:01:32.358: wlan0: Received scan results
+** Message: 16:01:37.636: wlan0: Received scan results
+** Message: 16:01:43.678: wlan0: Received scan results
+** Message: 16:01:49.758: wlan0: Received scan results
+** Message: 16:01:55.841: wlan0: Received scan results
+** Message: 16:02:01.924: wlan0: Received scan results
+** Message: 16:02:08.007: wlan0: Received scan results
+** Message: 16:02:14.093: wlan0: Received scan results
+** Message: 16:02:20.172: wlan0: Received scan results
+** Message: 16:02:26.258: wlan0: Received scan results
+** Message: 16:02:32.338: wlan0: Received scan results
+** Message: 16:02:37.678: wlan0: Received scan results
+** Message: 16:02:43.758: wlan0: Received scan results
+** Message: 16:02:49.838: wlan0: Received scan results
+XIO:  fatal IO error 11 (資源暫時無法取得) on X server ":0"
+      after 26950 requests (26711 known processed) with 11 events remaining.
